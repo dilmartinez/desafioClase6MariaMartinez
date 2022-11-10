@@ -15,9 +15,9 @@
   },
 
   {
-    "nombre":'golfeado con queso',
+    "nombre":"golfeado con queso",
     "precio": 600,
-    "thumbnail":'https://i0.wp.com/cocinamundial.es/wp-content/uploads/2020/10/img_0655.jpg?w=640',
+    "thumbnail":"https://i0.wp.com/cocinamundial.es/wp-content/uploads/2020/10/img_0655.jpg?w=640",
     "stock": 30
     "id": 3
   }

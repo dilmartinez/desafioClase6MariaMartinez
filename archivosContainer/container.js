@@ -1,11 +1,9 @@
-//const { isNull } = require('util');
-
 const fs = require('fs').promises
 
 class Contenedor {
     constructor(path){
         this.path=path
-        this.productos = []
+       
     }
 
     async save(item){
@@ -39,13 +37,8 @@ class Contenedor {
 
     //asyn ya que debe buscar la info en otro lugar.
     async getAll(){
-        try {
             const leer=await fs.readFile(this.path, 'utf-8')
             return JSON.parse(leer)
-        }
-        catch(error){
-            return []
-        }
     }
 
    async deleteById(id){
