@@ -1,0 +1,23 @@
+{
+  "name": "desafioclase6mariamartinez",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dilmartinez/desafioClase6MariaMartinez.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dilmartinez/desafioClase6MariaMartinez/issues"
+  },
+  "homepage": "https://github.com/dilmartinez/desafioClase6MariaMartinez#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "nombre": "rolls de canela",
+    "precio": 500,
+    "thumbnail": "https://www.recetasjudias.com/wp-content/uploads/2015/01/Rolls-de-Canela-y-Pasas-1.jpg",
+    "stock": 30,
+    "id": 1
+  },
+  {
+    "nombre": "cookie de nutella",
+    "precio": 500,
+    "thumbnail": "https://www.sweetestmenu.com/wp-content/uploads/2021/05/nutellastuffedcookies46a.jpg",
+    "stock": 35,
+    "id": 2
+  },
+
+  {
+    "nombre":'golfeado con queso',
+    "precio": 600,
+    "thumbnail":'https://i0.wp.com/cocinamundial.es/wp-content/uploads/2020/10/img_0655.jpg?w=640',
+    "stock": 30
+    "id": 3
+  }
+]
